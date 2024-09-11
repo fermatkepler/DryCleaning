@@ -1,6 +1,0 @@
-@DryCleaning_HostAddress = http://localhost:5083
-
-GET {{DryCleaning_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
